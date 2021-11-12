@@ -74,6 +74,7 @@ in order to read out the received mail content the "read" command is used
 
 In order to exit from receive page and go back to home page the "close" command is used
 *********************************************************************************************
+
 software tool required:
 
 Front end:
@@ -81,6 +82,7 @@ Front end:
      	Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
   It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
   Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight.
+  
 Back end:
       MS SQL
       Microsoft SQL Server is a relational database management system developed by Microsoft. 
